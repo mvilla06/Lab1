@@ -1,3 +1,3 @@
-Desarrollo de aplicaciones Web - Laboratorio 1 "Mi currículum"
-Invierno 2020
-Autor: Mauricio Villalpando Puente
+<p>Desarrollo de aplicaciones Web - Laboratorio 1 "Mi currículum"</p>
+<p>Invierno 2020</p>
+<p>Autor: Mauricio Villalpando Puente</p>

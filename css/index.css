@@ -1,0 +1,104 @@
+body{
+    font-family: Verdana, sans-serif;
+    color: #4f535f;
+    background-color: rgb(215, 230, 240);
+    padding: 0px;
+}
+main{padding: 0px, 20px;float:left;}
+.doc-header *, .doc-header {
+    text-align: left;
+    background-color: rgb(1, 1, 107);
+    color: white;
+    padding: 1px;
+    clear: right;
+    overflow: auto;
+}
+
+.article-header{
+    font-size: 24px;
+    text-decoration:underline;
+}
+
+.section-header{
+    font-weight: bold;
+}
+
+.description{
+    padding:10px ;
+
+}
+
+article{
+    padding-left: 10px;
+    padding-top: 20px;
+    clear:left;
+}
+
+section{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.date{
+    font-style: italic;
+    padding-left: 10px;
+   
+}
+
+nav{
+   
+    font-weight: bold;
+    float: inline-end;
+    
+}
+
+#name{
+    
+    width: 75%;
+}
+
+#pic{
+    text-align: right;
+    width: 25%;
+}
+
+.header_element{
+    box-sizing: border-box;
+    float: left;
+    padding:20px;
+}
+
+.clearfix{
+    overflow:auto;
+}
+.nav{
+    background-color: cornflowerblue;
+    padding: 10px 30px;
+    text-align: left;
+}
+
+footer{
+    font-size: 12px;
+    clear:left
+}
+
+#contact{
+    clear:left;
+    font-size: 12px;
+}
+
+#contact>header{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#side{
+    float:left;
+    clear:left;
+}
+
+#frc{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
